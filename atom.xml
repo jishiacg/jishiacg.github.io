@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://work.jishiacg.com</id>
+    <title>吉士动漫</title>
+    <updated>2021-01-15T12:17:11.499Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://work.jishiacg.com"/>
+    <link rel="self" href="https://work.jishiacg.com/atom.xml"/>
+    <subtitle>我們是2人工作室&lt;br&gt;
+工作項目是:&lt;br&gt;
+2D / 3D 動畫影片、Motion Graphics&lt;br&gt;
+廣告、遊戲、短片、插畫、漫畫&lt;br&gt;
+創意發想、企劃&lt;br&gt;
+歡迎合作提案 &lt;br&gt;
+黃國城    0922-302-309&lt;br&gt;
+Email :  jishi@jishiacg.com&lt;br&gt;LINE  / 微信  ID : JISHIACG&lt;br&gt;
+生產力工具 : Blender、Adobe CC、Windows 10、Wacom</subtitle>
+    <logo>https://work.jishiacg.com/images/avatar.png</logo>
+    <icon>https://work.jishiacg.com/favicon.ico</icon>
+    <rights>All rights reserved 2021, 吉士动漫</rights>
+    <entry>
+        <title type="html"><![CDATA[Poki 百吉雪糕-動畫及音樂製作]]></title>
+        <id>https://work.jishiacg.com/poki-bai-ji-xue-gao-3-pian-dong-hua-ji-yin-le-zhi-zuo/</id>
+        <link href="https://work.jishiacg.com/poki-bai-ji-xue-gao-3-pian-dong-hua-ji-yin-le-zhi-zuo/">
+        </link>
+        <updated>2021-01-13T16:05:42.000Z</updated>
+        <summary type="html"><![CDATA[<video controls poster="../video/g-cangzhijiyuan-1.jpg" width="100%" >  
+   <source src="../video/g-cangzhijiyuan-1.mp4" type="video/mp4"> Your browser does not support the video tag. 
+</video><br> 
+客戶 : 德立媒體行銷有限公司
+]]></summary>
+        <content type="html"><![CDATA[<video controls poster="../video/g-cangzhijiyuan-1.jpg" width="100%" >  
+   <source src="../video/g-cangzhijiyuan-1.mp4" type="video/mp4"> Your browser does not support the video tag. 
+</video><br> 
+客戶 : 德立媒體行銷有限公司
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蒼之紀元遊戲篇廣告 - 動畫製作]]></title>
+        <id>https://work.jishiacg.com/cang-zhi-ji-yuan-you-xi-pian-guang-gao-dong-hua-zhi-zuo/</id>
+        <link href="https://work.jishiacg.com/cang-zhi-ji-yuan-you-xi-pian-guang-gao-dong-hua-zhi-zuo/">
+        </link>
+        <updated>2021-01-13T11:28:12.000Z</updated>
+        <summary type="html"><![CDATA[<video controls poster="../video/g-cangzhijiyuan-1.jpg" width="100%" >  
+   <source src="../video/g-cangzhijiyuan-1.mp4" type="video/mp4">Your browser does not support the video tag. 
+</video><br> 
+客戶 : 德立媒體行銷有限公司
+]]></summary>
+        <content type="html"><![CDATA[<video controls poster="../video/g-cangzhijiyuan-1.jpg" width="100%" >  
+   <source src="../video/g-cangzhijiyuan-1.mp4" type="video/mp4">Your browser does not support the video tag. 
+</video><br> 
+客戶 : 德立媒體行銷有限公司
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蒼之紀元角色篇廣告 - 動畫製作]]></title>
+        <id>https://work.jishiacg.com/cang-1/</id>
+        <link href="https://work.jishiacg.com/cang-1/">
+        </link>
+        <updated>2021-01-13T10:45:10.000Z</updated>
+        <summary type="html"><![CDATA[<video controls poster="../video/g-cangzhijiyuan-2.jpg" width="100%" > 
+   <source src="../video/g-cangzhijiyuan-2.mp4" type="video/mp4">Your browser does not support the video tag. 
+</video><br> 
+客戶 : 德立媒體行銷有限公司
+]]></summary>
+        <content type="html"><![CDATA[<video controls poster="../video/g-cangzhijiyuan-2.jpg" width="100%" > 
+   <source src="../video/g-cangzhijiyuan-2.mp4" type="video/mp4">Your browser does not support the video tag. 
+</video><br> 
+客戶 : 德立媒體行銷有限公司
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://work.jishiacg.com/about/</id>
+        <link href="https://work.jishiacg.com/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<h2 id="联系我呀">📬 联系我呀</h2>
+]]></content>
+    </entry>
+</feed>
