@@ -375,6 +375,7 @@ td {
   padding: 8px 16px;
   flex-shrink: 0;
   font-weight: 600;
+  border-bottom: 1px #D0D0D0 solid;
 }
 .site-header .avatar {
   margin-bottom: 2px;
@@ -448,6 +449,7 @@ td {
   padding: 24px 0;
   line-height: 1.5;
   font-size: 16px;
+  border-bottom: 1px #D0D0D0 solid;
 }
 .post-container .post .post-abstract strong {
   font-weight: bolder;
