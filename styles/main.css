@@ -351,7 +351,7 @@ td {
   padding: 0 24px;
 }
 .site-header {
-  padding: 48px 0;
+  padding-top: 48px;
   text-align: center;
 }
 .site-header .site-title {
@@ -368,6 +368,7 @@ td {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  margin: 10px;
 }
 .site-header .menu-container a.menu {
   font-size: 16px;
@@ -376,7 +377,7 @@ td {
   font-weight: 600;
 }
 .site-header .avatar {
-  margin-bottom: 24px;
+  margin-bottom: 2px;
   border-radius: 50%;
   width: 120px;
   height: 120px;
@@ -402,12 +403,11 @@ td {
   flex: 1;
 }
 .post-container .post {
-  padding-bottom: 32px;
+  padding-bottom: 42px;
 }
 .post-container .post .post-title {
   font-size: 28px;
   text-align: center;
-  padding: 24px 0;
   font-weight: 900;
   letter-spacing: 0.02em;
 }
@@ -994,5 +994,9 @@ td {
     
       body {
         font-family: -apple-system,BlinkMacSystemFont,'Helvetica Neue','PingFang SC','Hiragino Sans GB','Droid Sans Fallback','Microsoft YaHei',sans-serif;
+      }
+    
+      a:hover {
+        color: #c92a2a;
       }
     
