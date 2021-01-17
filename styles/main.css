@@ -377,9 +377,7 @@ td {
 }
 .site-header .avatar {
   margin-bottom: 2px;
-  border-radius: 50%;
-  width: 120px;
-  height: 120px;
+  width: 200px;
 }
 .site-header .social-container {
   padding: 16px;
@@ -394,8 +392,7 @@ td {
     padding: 24px 0 0;
   }
   .site-header .avatar {
-    width: 80px;
-    height: 80px;
+    width: 200px;
   }
 }
 .post-container {
