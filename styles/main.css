@@ -348,7 +348,6 @@ td {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
-  padding: 0 24px;
 }
 .site-header {
   padding-top: 48px;
@@ -493,9 +492,6 @@ td {
   border-bottom: 2px solid;
 }
 @media (max-width: 600px) {
-  .post-container .post {
-    padding: 16px 16px;
-  }
   .post-container .post .post-title {
     padding: 16px 0;
     font-size: 24px;
@@ -509,9 +505,6 @@ td {
 }
 .post-detail {
   flex: 1;
-}
-.post-detail .post {
-  padding: 24px 32px;
 }
 .post-detail .post .post-feature-image {
   width: 100%;
@@ -815,9 +808,6 @@ td {
   background: #fafafa;
 }
 @media (max-width: 600px) {
-  .post-detail .post {
-    padding: 16px;
-  }
   .post-detail .post .post-title {
     font-size: 24px;
     padding: 16px 0;
@@ -976,6 +966,10 @@ td {
   font-weight: bold;
 }
 
+      .main {
+        max-width: 1000px;
+      }
+    
       .post-container .post .post-title {
         text-align: center;
       }
