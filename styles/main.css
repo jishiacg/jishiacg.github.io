@@ -976,10 +976,6 @@ td {
   font-weight: bold;
 }
 
-      .main {
-        max-width: 1200px;
-      }
-    
       .post-container .post .post-title {
         text-align: center;
       }
@@ -998,6 +994,6 @@ td {
       }
     
       a:hover {
-        color: #c92a2a;
+        color: #cc0000;
       }
     
